@@ -1,5 +1,0 @@
-<dependency>
-    <groupId>org.apache.mahout</groupId>
-    <artifactId>mahout-core</artifactId>
-    <version>0.13.0</version> <!-- Check for the latest version -->
-</dependency>
